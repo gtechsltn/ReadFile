@@ -1,6 +1,7 @@
 # Read File in File System in C#
 + [ReadFile](https://github.com/gtechsltn/ReadFile)
 + [WriteFile](https://docs.google.com/document/d/1ELVEuJ1OdkbzZQtjVBj3o4DeujnREvXKYOV1zpm7LR0)
++ [LINQ](https://github.com/gtechsltn/LINQ)
 
 ## StreamReader: ReadToEndAsync
 ```
